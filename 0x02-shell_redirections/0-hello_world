@@ -1,2 +1,2 @@
-  #!/bin/bash
-# Prints “Hello, World” to standard output
+#!/bin/bash
+echo "Hello, World"
